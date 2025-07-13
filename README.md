@@ -1,6 +1,6 @@
 # oclif-cli-core-issue-2025-07-11
 
-this repository reproduces an issue with [`@oclif/core@4.5.0`](https://github.com/oclif/core/releases/tag/4.5.0) where certain errors are not throwing properly.
+this repository reproduces an issue with [`@oclif/core@4.5.0`](https://github.com/oclif/core/releases/tag/4.5.0) (https://github.com/oclif/core/issues/1424) where certain errors are not throwing properly.
 
 ## reproduction steps
 
